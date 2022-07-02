@@ -11,3 +11,6 @@ git remote add origin http://...</br>
 git push origin main</br>
 git checkout -b "nova branch"</br>
 git checkout main</br>
+site no ar = produçao</br>
+teste = stagging</br>
+desenvolvimento = development</br>
