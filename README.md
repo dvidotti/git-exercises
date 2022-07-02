@@ -1,12 +1,13 @@
 # git-exercises
 Just a git exercise repo
-Ola, vamos vencer essa batalha!
-git init
-git add
-git branch -M "main"
-clear
-git add.
-git remote add origin http://...
-git push origin main
-git checkout -b "nova branch"
-git checkout main
+Ola, vamos vencer essa batalha!</br>
+git init</br>
+git commit -m "titulo"</br>
+git add</br>
+git branch -M "main"</br>
+clear</br>
+git add.</br>
+git remote add origin http://...</br>
+git push origin main</br>
+git checkout -b "nova branch"</br>
+git checkout main</br>
