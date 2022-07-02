@@ -19,3 +19,4 @@ desenvolvimento = development</br>
 # nova mudança
 
 isso requere que antes fazer o merge no branch main vc atualize o seu branch com os últimos commits
+alterado
