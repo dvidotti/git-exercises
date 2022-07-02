@@ -1,4 +1,5 @@
 # git-exercises
+
 Just a git exercise repo
 Ola, vamos vencer essa batalha!</br>
 git init</br>
@@ -14,3 +15,7 @@ git checkout main</br>
 site no ar = produçao</br>
 teste = stagging</br>
 desenvolvimento = development</br>
+
+# nova mudança
+
+isso requere que antes fazer o merge no branch main vc atualize o seu branch com os últimos commits
