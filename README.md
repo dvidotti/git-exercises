@@ -15,8 +15,10 @@ git checkout main</br>
 site no ar = produçao</br>
 teste = stagging</br>
 desenvolvimento = development</br>
+git fetch origin main - recebe branch main do github para o desktop
+git fetch origin --all - recebe todas as branchs para o desktop
+git merge origin/main 
+git log 
+git log -oneline
+git status
 
-# nova mudança
-
-isso requere que antes fazer o merge no branch main vc atualize o seu branch com os últimos commits
-alterado
